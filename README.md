@@ -1,6 +1,6 @@
 # calculadora-de-média
 
-Projeto realizado com a ImersãoDev realizada pela Alura, contendo 10 aulas no total, aprendendo o básico de de JS
+Projeto feito com a ImersãoDev, realizada pela Alura
 
 ##
 
